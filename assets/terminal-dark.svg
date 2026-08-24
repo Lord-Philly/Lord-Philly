@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="440" viewBox="0 0 780 440">
+  <style>    .pri{fill:#FFFFFF}
+    .sec{fill:#808080}
+    .dim{fill:#808080;opacity:.4}
+    .panel{fill:#FFFFFF;opacity:.03}
+    .frame{fill:none;stroke:#808080;stroke-width:1.5}
+    .hair{stroke:#202020;stroke-width:1}
+    .lead{stroke:#202020;stroke-width:1.5;stroke-dasharray:2 7}
+    .flow{fill:none;stroke:#808080;stroke-width:1.5;stroke-dasharray:4 6}
+    .box{fill:#000000;fill-opacity:.35;stroke:#808080;stroke-width:1.5}
+    .inv{fill:#FFFFFF}
+    .invT{fill:#000000}
+    .cursor{fill:#FFFFFF}
+    text{font-family:'JetBrains Mono','Fira Code','Cascadia Code','Courier New',monospace;}
+  </style>
+
+  <rect x="20" y="20" width="740" height="400" rx="10" class="panel"/>
+  <rect x="20" y="20" width="740" height="400" rx="10" class="frame"/>
+  <line x1="21" y1="66" x2="759" y2="66" class="hair"/>
+
+  <circle cx="48" cy="43" r="6" class="dim"/>
+  <circle cx="72" cy="43" r="6" class="dim"/>
+  <circle cx="96" cy="43" r="6" class="sec"/>
+
+  <text x="122" y="48" font-size="14" class="sec">philly@mainframe:~$ cat whoami.txt</text>
+
+    <text x="56" y="108" font-size="16" letter-spacing="1" class="sec">USER</text>
+    <line x1="212" y1="103" x2="330" y2="103" class="lead"/>
+    <text x="344" y="108" font-size="16" letter-spacing="1" class="pri">PHILLY</text>
+    <text x="56" y="148" font-size="16" letter-spacing="1" class="sec">AGE</text>
+    <line x1="212" y1="143" x2="330" y2="143" class="lead"/>
+    <text x="344" y="148" font-size="16" letter-spacing="1" class="pri">19</text>
+    <text x="56" y="188" font-size="16" letter-spacing="1" class="sec">STATUS</text>
+    <line x1="212" y1="183" x2="330" y2="183" class="lead"/>
+    <text x="344" y="188" font-size="16" letter-spacing="1" class="pri">ONLINE</text>
+    <rect x="412" y="174" width="9" height="17" class="cursor"><animate attributeName="opacity" values="1;1;0;1" keyTimes="0;.6;.75;1" dur="1.2s" repeatCount="indefinite"/></rect>
+    <text x="56" y="228" font-size="16" letter-spacing="1" class="sec">MODE</text>
+    <line x1="212" y1="223" x2="330" y2="223" class="lead"/>
+    <text x="344" y="228" font-size="16" letter-spacing="1" class="pri">VIBE CODING</text>
+    <text x="56" y="268" font-size="16" letter-spacing="1" class="sec">INTERESTS</text>
+    <line x1="212" y1="263" x2="330" y2="263" class="lead"/>
+    <text x="344" y="268" font-size="16" letter-spacing="1" class="pri">GAMES / CODE / AI</text>
+        <g>
+      <text x="344" y="308" font-size="16" letter-spacing="1" class="pri">BUILDING</text>
+      <animate attributeName="opacity" values="1;1;.35;1" keyTimes="0;.85;.93;1" dur="3s" repeatCount="indefinite"/>
+    </g>
+  <text x="56" y="382" font-size="16" class="sec">$</text>
+  <rect x="76" y="370" width="10" height="16" class="cursor">
+    <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;.5;.6;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="744" y="404" text-anchor="end" font-size="11" letter-spacing="2" class="dim">[ AUTHORIZED PERSONNEL ONLY ]</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="150" viewBox="0 0 920 150">
+  <style>    .pri{fill:#000000}
+    .sec{fill:#808080}
+    .dim{fill:#808080;opacity:.4}
+    .panel{fill:#000000;opacity:.04}
+    .frame{fill:none;stroke:#808080;stroke-width:1.5}
+    .hair{stroke:#808080;stroke-width:1;opacity:.35}
+    .lead{stroke:#808080;stroke-width:1.5;stroke-dasharray:2 7;opacity:.5}
+    .flow{fill:none;stroke:#808080;stroke-width:1.5;stroke-dasharray:4 6}
+    .box{fill:#000000;fill-opacity:.04;stroke:#808080;stroke-width:1.5}
+    .inv{fill:#000000}
+    .invT{fill:#FFFFFF}
+    .cursor{fill:#000000}
+    text{font-family:'JetBrains Mono','Fira Code','Cascadia Code','Courier New',monospace;}
+  </style>
+
+  <text x="60" y="46" font-size="15" class="sec">$ shutdown --keep-signal</text>
+  <text x="60" y="96" font-size="33" font-weight="bold" letter-spacing="6" class="pri">CONNECTION TERMINATED.</text>
+  <rect x="565" y="74" width="14" height="26" class="cursor">
+    <animate attributeName="opacity" values="1;1;0;1" keyTimes="0;.55;.65;1" dur="1.3s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="860" y="52" text-anchor="end" font-size="12" letter-spacing="2" class="sec">SIGNAL PERSISTS</text>
+  <text x="860" y="72" text-anchor="end" font-size="12" letter-spacing="2" class="sec">THE BUILD NEVER STOPS</text>
+  <text x="860" y="92" text-anchor="end" font-size="12" letter-spacing="2" class="dim">PHILLY // EST. 2007</text>
+
+  <line x1="60" y1="124" x2="860" y2="124" class="hair"/>
+</svg>
