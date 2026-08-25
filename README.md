@@ -1,42 +1,10 @@
 <div align="center">
 
-```
- ██████╗ ██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗
- ██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
- ██║  ██║███████║███████║██║  ██║██║   ██║██║ █╗ ██║
- ██║  ██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║
- ██████╔╝██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝
-```
-
-```
-╔════════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗ ██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗    ▄▄▄█████▓▓█████   ║
-║   ██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║    ▓  ██▒ ▓▒▓█   ▀   ║
-║   ██║  ██║███████║███████║██║  ██║██║   ██║██║ █╗ ██║    ▒ ▓██░ ▒░▒███     ║
-║   ██║  ██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║    ░ ▓██▓ ░ ▒▓█  ▄   ║
-║   ██████╔╝██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝      ▒██▒ ░ ░▒████▒  ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝      ▒ ░░   ░░ ▒░ ░  ║
-║                                                                              ║
-║   ┌──────────────────────────────────────────────────────────────────────┐   ║
-║   │                                                                      │   ║
-║   │   [ NÓ DA REDE IDENTIFICADO ]                                        │   ║
-║   │                                                                      │   ║
-║   │   USUÁRIO ......... ph1lly.w3ird                                     │   ║
-║   │   ALIAS ........... PHILLY                                           │   ║
-║   │   STATUS .......... ■ ONLINE                                         │   ║
-║   │   ORIGEM .......... COLORADO DO OESTE // RONDÔNIA // BR              │   ║
-║   │   CLEARANCE ....... NÍVEL 01                                         │   ║
-║   │   TIPO ............ HUMANO PROVAVELMENTE                             │   ║
-║   │                                                                      │   ║
-║   │   > ACESSO CONCEDIDO.                                                │   ║
-║   │   > BEM-VINDO AO NÓ.                                                 │   ║
-║   │                                                                      │   ║
-║   └──────────────────────────────────────────────────────────────────────┘   ║
-║                                                                              ║
-╚════════════════════════════════════════════════════════════════════════════════╝
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img src="./assets/banner-dark.svg" alt="DEDSEC — NÓ DA REDE BR-RO-CO" width="920"/>
+</picture>
 
 ![SISTEMA ONLINE](https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=111111)
 ![DEDSEC NODE](https://img.shields.io/badge/NODE-BR--RO--CO-000000?style=for-the-badge&labelColor=111111)
@@ -46,58 +14,13 @@
 
 ---
 
-```
-┌────────────────────────────────────────────────────────────────────────────┐
-│                                                                            │
-│  [ INTERFERÊNCIA DETECTADA ]                                               │
-│                                                                            │
-│  > iniciando sequência de autenticação...                                  │
-│  > verificando credenciais do nó...                                        │
-│  > nó BR-RO-CO confirmado.                                                 │
-│  > carregando dados do usuário...                                          │
-│  > carregamento concluído.                                                 │
-│  > sistema pronto para operação.                                           │
-│                                                                            │
-│  [ ACESSO TOTAL CONCEDIDO ]                                                │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
 ## `[ IDENTIFICAÇÃO DO USUÁRIO ]`
 
-```
-$ cat /etc/dedsec/users/ph1lly.w3ird/profile.dat
-
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║  ┌──────────────────────────────────────────────────────────────────┐   ║
-║  │  DADOS PESSOAIS — NÓ BR-RO-CO                                   │   ║
-║  ├──────────────────────────────────────────────────────────────────┤   ║
-║  │                                                                  │   ║
-║  │  NOME COMPLETO ....... Philadelphia W. Santos                    │   ║
-║  │  CODINOME ............ ph1lly.w3ird                              │   ║
-║  │  ALIAS ............... PHILLY                                    │   ║
-║  │  IDADE ............... 19 anos                                   │   ║
-║  │  LOCALIZAÇÃO ......... Colorado do Oeste, Rondônia, Brasil      │   ║
-║  │  STATUS .............. ONLINE                                    │   ║
-║  │  ÚLTIMA CONEXÃO ...... AGORA                                    │   ║
-║  │                                                                  │   ║
-║  └──────────────────────────────────────────────────────────────────┘   ║
-║                                                                          ║
-║  ┌──────────────────────────────────────────────────────────────────┐   ║
-║  │  NOTA PESSOAL                                                    │   ║
-║  ├──────────────────────────────────────────────────────────────────┤   ║
-║  │                                                                  │   ║
-║  │  "Um brasileiro de 19 anos que gosta de games,                   │   ║
-║  │   computadores e tecnologia. Está experimentando com código      │   ║
-║  │   e tentando descobrir até onde consegue chegar."                │   ║
-║  │                                                                  │   ║
-║  └──────────────────────────────────────────────────────────────────┘   ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-dark.svg" alt="PHILLY — 19 // VIBE CODER // GAMER // APRENDIZ" width="820"/>
+</picture>
 
 ---
 
@@ -134,22 +57,15 @@ E isso, pra mim, já é suficiente.
 
 ## `[ ESTADO ATUAL DO SISTEMA ]`
 
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║   ██████████████████████████████████████████████████████████████████   ║
-║   █  MONITORAMENTO EM TEMPO REAL — ph1lly.w3ird                   █   ║
-║   ██████████████████████████████████████████████████████████████████   ║
-║                                                                        ║
-║   programação .............. hobby          [░░░░░░░░] 20%              ║
-║   vibe coding .............. ativo          [████████] 85%              ║
-║   projetos pessoais ........ em andamento   [██░░░░░░] 35%              ║
-║   games .................... sempre         [████████] 100%             ║
-║   cybersecurity ............ explorando     [██░░░░░░] 30%              ║
-║   café ..................... em falta       [░░░░░░░░] 0%               ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/status-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/status-light.svg">
+  <img src="./assets/status-dark.svg" alt="MONITORAMENTO EM TEMPO REAL" width="820"/>
+</picture>
+
+</div>
 
 ---
 
@@ -158,32 +74,23 @@ E isso, pra mim, já é suficiente.
 ```
 $ ls -la ./toolbox/
 
-┌────────────────────────────────────────────────────────────────────┐
-│  LINGUAGENS                                                        │
-├────────────────────────────────────────────────────────────────────┤
-│  JavaScript ............ explorando                                │
-│  Python ................ explorando                                │
-│  HTML/CSS .............. construindo                               │
-│  Markdown .............. dominando (irônico)                       │
-└────────────────────────────────────────────────────────────────────┘
+LINGUAGENS
+├── JavaScript ............ explorando
+├── Python ................ explorando
+├── HTML/CSS .............. construindo
+└── Markdown .............. dominando (irônico)
 
-┌────────────────────────────────────────────────────────────────────┐
-│  FERRAMENTAS                                                       │
-├────────────────────────────────────────────────────────────────────┤
-│  Git ................... aprendendo                                 │
-│  VS Code ............... diariamente                               │
-│  Linux ................. curiosidade                               │
-│  GitHub ................ operacional                               │
-└────────────────────────────────────────────────────────────────────┘
+FERRAMENTAS
+├── Git ................... aprendendo
+├── VS Code ............... diariamente
+├── Linux ................. curiosidade
+└── GitHub ................ operacional
 
-┌────────────────────────────────────────────────────────────────────┐
-│  ÁREAS DE INTERESSE                                                │
-├────────────────────────────────────────────────────────────────────┤
-│  Cybersecurity ......... fascinado                                 │
-│  Redes ................. estudando                                 │
-│  Sistemas .............. desmontando                               │
-│  Vibe Coding ........... sempre ativo                              │
-└────────────────────────────────────────────────────────────────────┘
+ÁREAS DE INTERESSE
+├── Cybersecurity ......... fascinado
+├── Redes ................. estudando
+├── Sistemas .............. desmontando
+└── Vibe Coding ........... sempre ativo
 
 STATUS: curioso demais para ser perigoso.
 ```
@@ -192,62 +99,15 @@ STATUS: curioso demais para ser perigoso.
 
 ## `[ OPERAÇÕES ]`
 
-```
-$ cat ./operations/missions.log
+<div align="center">
 
-> projetos em destaque. operações reais, sem simulação.
-> o que foi construído, foi construído de verdade.
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/operations-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/operations-light.svg">
+  <img src="./assets/operations-dark.svg" alt="OPERAÇÕES EM ANDAMENTO" width="820"/>
+</picture>
 
-<details>
-<summary><b>[01] OPERAÇÃO: [NOME_DO_PROJETO] — STATUS: CONCLUÍDO</b></summary>
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║  OPERAÇÃO [01]                                                 ║
-╠════════════════════════════════════════════════════════════════╣
-║  STACK ..... [LINGUAGEM/FERRAMENTA]                            ║
-║  BRIEF ..... [descrição curta do que faz]                      ║
-║  ESTADO .... funcionando (por enquanto)                        ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-`[LINK_DO_REPO]`
-
-</details>
-
-<details>
-<summary><b>[02] OPERAÇÃO: [NOME_DO_PROJETO] — STATUS: EM DESENVOLVIMENTO</b></summary>
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║  OPERAÇÃO [02]                                                 ║
-╠════════════════════════════════════════════════════════════════╣
-║  STACK ..... [LINGUAGEM/FERRAMENTA]                            ║
-║  BRIEF ..... [descrição curta]                                 ║
-║  ESTADO .... sendo construído agora                            ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-`[LINK_DO_REPO]`
-
-</details>
-
-<details>
-<summary><b>[03] OPERAÇÃO: ██████████ — STATUS: CLASSIFICADO</b></summary>
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║  ACESSO NEGADO                                                 ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  clearance insuficiente.                                       ║
-║  (tradução: não está pronto ainda.)                            ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</details>
+</div>
 
 > *Adicione seus projetos reais aqui. Remova os placeholders.*
 
@@ -255,18 +115,15 @@ $ cat ./operations/missions.log
 
 ## `[ VIBE CODING ]`
 
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║                       O PIPELINE DA LOUCURA                            ║
-║                                                                        ║
-║                 IDEIA ──► IA ──► CÓDIGO ──► QUEBRA                     ║
-║                    ▲                       │                            ║
-║                    │                       ▼                            ║
-║                    └──────── CONsertA ◄───┘                            ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pipeline-light.svg">
+  <img src="./assets/pipeline-dark.svg" alt="IDEIA → IA → CÓDIGO → QUEBRA → CONsertA → PUBLICA" width="760"/>
+</picture>
+
+</div>
 
 ```
 vibe coding não é profissão — é como eu construo.
@@ -279,45 +136,17 @@ a IA não substitui o pensamento.
 ela programa na velocidade do pensamento.
 ```
 
-<details>
-<summary><b>▸ ver pipeline bruto</b></summary>
-
-```
-           IDEIA
-            │
-            ▼
-            IA          ← programador duplo, não piloto automático
-            │
-            ▼
-          CÓDIGO        ← teclado mais rápido do deserto
-            │
-            ▼
-          QUEBRA        ← garantido, sempre
-            │
-            ▼
-         CONsertA       ← stack trace? nunca ouvi falar
-            │
-            ▼
-        PUBLICA ────► volta pra IDEIA
-```
-
-</details>
-
 ---
 
 ## `[ OFFLINE MODE ]`
 
 ```
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                        ║
-║   > quando o terminal dorme, outra tela acende.                        ║
-║                                                                        ║
-║   games são caos de baixo risco — o único lugar onde                   ║
-║   quebrar tudo é literalmente o objetivo.                              ║
-║                                                                        ║
-║   STATUS: jogando quando deveria estar codando.                        ║
-║                                                                        ║
-╚════════════════════════════════════════════════════════════════════════╝
+> quando o terminal dorme, outra tela acende.
+
+games são caos de baixo risco — o único lugar onde
+quebrar tudo é literalmente o objetivo.
+
+STATUS: jogando quando deveria estar codando.
 ```
 
 ---
@@ -345,8 +174,6 @@ ela programa na velocidade do pensamento.
 ## `[ CANAIS DE COMUNICAÇÃO ]`
 
 ```
-$ netstat -canais
-
 ╔════════════════════════════════════════════════════════════════════════╗
 ║  CANAL            │ STATUS         │ CRIPTOGRAFIA                     ║
 ╠═══════════════════╪════════════════╪══════════════════════════════════╣
@@ -458,18 +285,10 @@ $ netstat -canais
 
 <div align="center">
 
-```
- ╔══════════════════════════════════════════════════════════════════════╗
- ║                                                                      ║
- ║   [fim da transmissão]                                               ║
- ║                                                                      ║
- ║   se você chegou até aqui, obrigado por ler.                         ║
- ║   o sistema continua operacional.                                    ║
- ║   continue explorando.                                               ║
- ║                                                                      ║
- ║   — ph1lly.w3ird                                                     ║
- ║                                                                      ║
- ╚══════════════════════════════════════════════════════════════════════╝
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img src="./assets/footer-dark.svg" alt="CONEXÃO ENCERRADA." width="700"/>
+</picture>
 
 </div>

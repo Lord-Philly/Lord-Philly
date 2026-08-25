@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="200" viewBox="0 0 920 200">
+  <style>
+    .pri{fill:#000000}
+    .sec{fill:#606060}
+    .dim{fill:#606060;opacity:.4}
+    .bar{fill:#606060}
+    .barbg{fill:#E0E0E0}
+    .box{fill:#FFFFFF;fill-opacity:.5;stroke:#606060;stroke-width:1.5}
+    text{font-family:'JetBrains Mono','Fira Code','Cascadia Code','Courier New',monospace;}
+  </style>
+
+  <!-- Title -->
+  <text x="460" y="30" text-anchor="middle" font-size="14" letter-spacing="3" class="sec">// MONITORAMENTO EM TEMPO REAL</text>
+
+  <!-- Status box -->
+  <rect x="60" y="45" width="800" height="140" class="box"/>
+
+  <!-- Programação bar -->
+  <text x="80" y="75" font-size="11" letter-spacing="1" class="sec">PROGRAMAÇÃO</text>
+  <rect x="250" y="65" width="500" height="12" class="barbg"/>
+  <rect x="250" y="65" width="100" height="12" class="bar">
+    <animate attributeName="width" values="100;100;100;100" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="760" y="75" font-size="11" letter-spacing="1" class="pri">20%</text>
+
+  <!-- Vibe Coding bar -->
+  <text x="80" y="100" font-size="11" letter-spacing="1" class="sec">VIBE CODING</text>
+  <rect x="250" y="90" width="500" height="12" class="barbg"/>
+  <rect x="250" y="90" width="425" height="12" class="bar">
+    <animate attributeName="width" values="425;425;425;425" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="760" y="100" font-size="11" letter-spacing="1" class="pri">85%</text>
+
+  <!-- Games bar -->
+  <text x="80" y="125" font-size="11" letter-spacing="1" class="sec">GAMES</text>
+  <rect x="250" y="115" width="500" height="12" class="barbg"/>
+  <rect x="250" y="115" width="500" height="12" class="bar">
+    <animate attributeName="width" values="500;500;500;500" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="760" y="125" font-size="11" letter-spacing="1" class="pri">100%</text>
+
+  <!-- Cybersecurity bar -->
+  <text x="80" y="150" font-size="11" letter-spacing="1" class="sec">CYBERSECURITY</text>
+  <rect x="250" y="140" width="500" height="12" class="barbg"/>
+  <rect x="250" y="140" width="150" height="12" class="bar">
+    <animate attributeName="width" values="150;150;150;150" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="760" y="150" font-size="11" letter-spacing="1" class="pri">30%</text>
+
+  <!-- Café bar -->
+  <text x="80" y="175" font-size="11" letter-spacing="1" class="sec">CAFÉ</text>
+  <rect x="250" y="165" width="500" height="12" class="barbg"/>
+  <rect x="250" y="165" width="0" height="12" class="bar">
+    <animate attributeName="width" values="0;0;0;0" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="760" y="175" font-size="11" letter-spacing="1" class="pri">0%</text>
+</svg>
