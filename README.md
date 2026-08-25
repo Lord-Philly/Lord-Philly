@@ -7,18 +7,19 @@
 </picture>
 
 ```
- ╔════════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   $ whoami                                                       ║
- ║   philly — sinal ativo                                           ║
- ║                                                                  ║
- ║   $ uptime                                                       ║
- ║   19 anos // ainda construindo                                   ║
- ║                                                                  ║
- ╚════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   $ whoami                                                               ║
+║   philly — sinal ativo                                                   ║
+║                                                                          ║
+║   $ uptime                                                               ║
+║   19 anos // ainda construindo                                           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ![SISTEMA ONLINE](https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=111111)
+![DEDSEC NODE](https://img.shields.io/badge/NODE-BR--RO--CO-000000?style=for-the-badge&labelColor=111111)
 ![CLEARANCE LVL](https://img.shields.io/badge/CLEARANCE-01-000000?style=for-the-badge&labelColor=111111)
 
 </div>
@@ -28,19 +29,19 @@
 ## `// QUEM_SOU`
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   e aí — sou Philly. 19.                                             ║
-║                                                                      ║
-║   Quebro coisas, conserto, e às vezes até funcionam depois.          ║
-║   A maior parte do meu tempo vai para código, jogos e conversar      ║
-║   com IAs até que alguma ideia aleatória das 2AM vire algo real.     ║
-║                                                                      ║
-║   Não estou aqui para parecer profissional.                          ║
-║   Estou aqui para construir, aprender e ver até onde a curiosidade   ║
-║   vai.                                                               ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   e aí — sou Philly. 19.                                                 ║
+║                                                                          ║
+║   Quebro coisas, conserto, e às vezes até funcionam depois.              ║
+║   A maior parte do meu tempo vai para código, jogos e conversar          ║
+║   com IAs até que alguma ideia aleatória das 2AM vire algo real.         ║
+║                                                                          ║
+║   Não estou aqui para parecer profissional.                              ║
+║   Estou aqui para construir, aprender e ver até onde a curiosidade       ║
+║   vai.                                                                   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -58,18 +59,18 @@
 </div>
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║  vibe coding não é profissão — é como eu construo.                   ║
-║                                                                      ║
-║  sem especificações rígidas. sem planejamento excessivo.             ║
-║  só uma ideia, uma IA do meu lado do teclado, e o loop:              ║
-║  escrever, quebrar, consertar, publicar.                             ║
-║                                                                      ║
-║  a IA não substitui o pensamento.                                    ║
-║  ela programa na velocidade do pensamento.                           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  vibe coding não é profissão — é como eu construo.                       ║
+║                                                                          ║
+║  sem especificações rígidas. sem planejamento excessivo.                 ║
+║  só uma ideia, uma IA do meu lado do teclado, e o loop:                  ║
+║  escrever, quebrar, consertar, publicar.                                 ║
+║                                                                          ║
+║  a IA não substitui o pensamento.                                        ║
+║  ela programa na velocidade do pensamento.                               ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <details>
@@ -116,25 +117,26 @@
 ## `// OPERAÇÕES`
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  $ cat operations.log                                               ║
-║                                                                      ║
-║  > projetos carregados aqui quando desclassificados.                 ║
-║  > construções ativas primeiro.                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  $ cat operations.log                                                   ║
+║                                                                          ║
+║  > projetos carregados aqui quando desclassificados.                     ║
+║  > construções ativas primeiro.                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <details>
 <summary><b>[01] OPERAÇÃO: NOME_DO_PROJETO — STATUS: ATIVO</b></summary>
+<br>
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║  OPERAÇÃO [01]                                                 ║
-╠════════════════════════════════════════════════════════════════╣
-║  STACK ..... [TECNOLOGIA]                                      ║
-║  BRIEF ..... [descrição de uma linha do que faz]               ║
-║  ESTADO .... [o que está sendo construído / quebrado agora]    ║
-╚════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  OPERAÇÃO [01]                                                           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  STACK ..... [TECNOLOGIA]                                                ║
+║  BRIEF ..... [descrição de uma linha do que faz]                         ║
+║  ESTADO .... [o que está sendo construído / quebrado agora]              ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 `[LINK_DO_REPO]`
@@ -143,15 +145,16 @@
 
 <details>
 <summary><b>[02] OPERAÇÃO: NOME_DO_PROJETO — STATUS: EM DESENVOLVIMENTO</b></summary>
+<br>
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║  OPERAÇÃO [02]                                                 ║
-╠════════════════════════════════════════════════════════════════╣
-║  STACK ..... [TECNOLOGIA]                                      ║
-║  BRIEF ..... [descrição de uma linha]                          ║
-║  ESTADO .... [estado atual]                                    ║
-╚════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  OPERAÇÃO [02]                                                           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  STACK ..... [TECNOLOGIA]                                                ║
+║  BRIEF ..... [descrição de uma linha]                                    ║
+║  ESTADO .... [estado atual]                                              ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 `[LINK_DO_REPO]`
@@ -160,16 +163,17 @@
 
 <details>
 <summary><b>[03] OPERAÇÃO: ████████ — STATUS: CLASSIFICADO</b></summary>
+<br>
 
 ```
-╔════════════════════════════════════════════════════════════════╗
-║  ACESSO NEGADO                                                 ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  nível de clearance insuficiente.                              ║
-║  (tradução: ainda não está pronto.)                            ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ACESSO NEGADO                                                           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  nível de clearance insuficiente.                                        ║
+║  (tradução: ainda não está pronto.)                                      ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </details>
@@ -179,15 +183,15 @@
 ## `// FERRAMENTAS`
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  $ ls -la ./toolbox                                                 ║
-║                                                                      ║
-║  LINGUAGEM .......... [LINGUAGEM]                                    ║
-║  FRAMEWORK .......... [FRAMEWORK]                                    ║
-║  BANCO_DE_DADOS ..... [BANCO_DE_DADOS]                              ║
-║  IA ................ [FERRAMENTA_IA]                                 ║
-║  OUTRO ............. [OUTRO]                                         ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  $ ls -la ./toolbox                                                     ║
+║                                                                          ║
+║  LINGUAGEM .......... [LINGUAGEM]                                        ║
+║  FRAMEWORK .......... [FRAMEWORK]                                        ║
+║  BANCO_DE_DADOS ..... [BANCO_DE_DADOS]                                  ║
+║  IA ................ [FERRAMENTA_IA]                                     ║
+║  OUTRO ............. [OUTRO]                                             ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -195,16 +199,16 @@
 ## `// MODO_OFFLINE`
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║  > quando o terminal dorme, outra tela acende.                       ║
-║                                                                      ║
-║  games são caos de baixo risco — o único lugar onde                  ║
-║  quebrar tudo é literalmente o objetivo.                             ║
-║                                                                      ║
-║  jogando agora: [NOME_DO_JOGO]                                       ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║  > quando o terminal dorme, outra tela acende.                           ║
+║                                                                          ║
+║  games são caos de baixo risco — o único lugar onde                      ║
+║  quebrar tudo é literalmente o objetivo.                                 ║
+║                                                                          ║
+║  jogando agora: [NOME_DO_JOGO]                                           ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -214,11 +218,11 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                    ESTATÍSTICAS DO NÓ                                ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║                      ESTATÍSTICAS DO NÓ                                  ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <a href="https://github.com/PHILLY_USERNAME">
@@ -238,17 +242,17 @@
 ## `// CONEXÃO`
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  $ netstat -channels                                                 ║
-║                                                                      ║
-║  EMAIL      ......... [SEU_EMAIL]                                    ║
-║  DISCORD    ......... [SEU_DISCORD]                                  ║
-║  INSTAGRAM  ......... [SEU_INSTAGRAM]                                ║
-║  LINKEDIN   ......... [SEU_LINKEDIN]                                 ║
-║  WEBSITE    ......... [SEU_SITE]                                     ║
-║                                                                      ║
-║  0 portas abertas. todos os canais criptografados de ponta a ponta.  ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  $ netstat -channels                                                     ║
+║                                                                          ║
+║  EMAIL      ......... [SEU_EMAIL]                                        ║
+║  DISCORD    ......... [SEU_DISCORD]                                      ║
+║  INSTAGRAM  ......... [SEU_INSTAGRAM]                                    ║
+║  LINKEDIN   ......... [SEU_LINKEDIN]                                     ║
+║  WEBSITE    ......... [SEU_SITE]                                         ║
+║                                                                          ║
+║  0 portas abertas. todos os canais criptografados de ponta a ponta.      ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
